@@ -1,6 +1,6 @@
-Thanks for downloading this template!
+utilizando plantillas para seguir realizando proyectos, y prácticas
+este es un archivo README donde especifico más trabajos realizados
 
-Template Name: Flexor
-Template URL: https://bootstrapmade.com/flexor-free-multipurpose-bootstrap-template/
+https://bootstrapmade.com/flexor-free-multipurpose-bootstrap-template/
 Author: BootstrapMade.com
-License: https://bootstrapmade.com/license/
+
